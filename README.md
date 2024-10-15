@@ -1,6 +1,6 @@
 
 # ⭐️ Introduction
-Built with React Native for handling the user interface, Google Maps for rendering maps with directions, Stripe for handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's skills in a unique manner that creates a lasting impact.
+Uber Clone is a fully functional mobile app built using React Native for the user interface, Google Maps for map rendering and directions, Stripe for payment processing, serverless Postgres for database management, and styled with TailwindCSS. The app's primary purpose is to demonstrate the process of developing full-stack mobile applications.
 
 # 🖥️ Tech Stack
 - React Native
@@ -14,33 +14,33 @@ Built with React Native for handling the user interface, Google Maps for renderi
 
 # 💎 Features
 
-💡 **Onboarding Flow**: Seamless user registration and setup process.
+💡 **Onboarding Flow**: A smooth and effortless user registration and setup process.
 
-💡 **Email Password Authentication with Verification**: Secure login with email verification.
+💡 **Email Password Authentication with Verification**: Secure login utilizing email verification.
 
-💡 **oAuth Using Google**: Easy login using Google credentials.
+💡 **oAuth Using Google**: Convenient login with Google credentials.
 
 💡 **Authorization**: Secure access control for different user roles.
 
-💡 **Home Screen with Live Location & Google Map**: Real-time location tracking with markers on a map.
+💡 **Home Screen with Live Location & Google Map**: Live location tracking with map markers.
 
-💡 **Recent Rides**: View a list of recent rides at a glance.
+💡 **Recent Rides**: Quickly view a summary of recent rides.
 
-💡 **Google Places Autocomplete**: Search any place on Earth with autocomplete suggestions.
+💡 **Google Places Autocomplete**: Effortlessly search any location worldwide with autocomplete suggestions.
 
 💡 **Find Rides**: Search for rides by entering 'From' and 'To' locations.
 
-💡 **Select Rides from Map**: Choose available cars near your location from the map.
+💡 **Select Rides from Map**: "Select nearby available drivers directly from the map."
 
-💡 **Confirm Ride with Detailed Information**: View complete ride details, including time and fare price.
+💡 **Confirm Ride with Detailed Information**: Access full ride details, including duration and fare.
 
-💡 **Pay for Ride Using Stripe**: Make payments using multiple methods like cards and others.
+💡 **Pay for Ride Using Stripe**: Complete payments using various methods, including cards and more.
 
 💡 **Create Rides After Successful Payment**: Book a ride after confirming payment.
 
 💡 **Profile**: Manage account details in the profile screen.
 
-💡 **History**: Review all rides booked so far.
+💡 **History**: Review all previously booked rides.
 
 💡 **Responsive on Android and iOS**: Optimized for both Android and iOS devices.
 
@@ -48,16 +48,12 @@ and many more, including code architecture and reusability
 
 # 📸 Screenshots:
 
-
-# H
 <img width="300" src="https://github.com/user-attachments/assets/52f9cbb7-c564-4225-8d76-d2b950262f48">
 <img width="300" src="https://github.com/user-attachments/assets/f721ef1f-e6d9-4e6c-964c-f23307ededd2">
 <img width="300" src="https://github.com/user-attachments/assets/1051208d-0f28-486c-9cd5-fd855e9e722b">
 <img width="300" src="https://github.com/user-attachments/assets/baaab355-ad25-4e16-b392-ffcea93dd4a9">
 <img width="300" src="https://github.com/user-attachments/assets/ab4f8f6d-d35a-4d76-878c-bcf4d224f243">
 <img width="300" src="https://github.com/user-attachments/assets/ceead312-802a-4640-9c01-6ae7848f3ca3">
-
-
 <img width="300" src="https://github.com/user-attachments/assets/a543bccd-cec3-45a8-b0e4-30ecf801da86">
 <img width="300" src="https://github.com/user-attachments/assets/723702b3-a794-4a3f-99f4-e6b14a84e742">
 <img width="300" src="https://github.com/user-attachments/assets/bedfc146-7bd8-442b-8b17-1baa1cdf33e7">
@@ -66,10 +62,6 @@ and many more, including code architecture and reusability
 <img width="300" src="https://github.com/user-attachments/assets/8aac7248-a07d-469c-9794-5dbf76a965e4">
 <img width="300" src="https://github.com/user-attachments/assets/41b2678f-ce77-4e58-b1a4-9ff6931e2507">
 <img width="300" src="https://github.com/user-attachments/assets/1c8ec65f-6691-4796-85cd-86b0e8020e8a">
-
-
-
-
 
 
 # 🚀 Run the App 
